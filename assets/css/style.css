@@ -1,22 +1,22 @@
 /******************************************************************
-	
-	
+
+
 	@ Item          Gravity // Coming Soon - Under Construction
 	@ Version       3.4
 	@ Author		Avanzare
-	@ Website		http://themeforest.net/user/avanzare 
-	
+	@ Website		http://themeforest.net/user/avanzare
+
 
  ******************************************************************/
- 
- 
+
+
  /******************************************************************
 
 
 	------------------------
 	-- TABLE OF CONTENTS --
 	------------------------
-	
+
 	--  1. Typography
 	--  2. Loading
 	--  3. Content
@@ -25,8 +25,8 @@
 	--  6. Overlay-Content-Contact
 	--  7. Overlay Skins
 	--  8. Media Queries
- 
- 
+
+
  ******************************************************************/
 
 
@@ -508,7 +508,7 @@ a:focus
             transform: translateY(-200%);
 }
 
-.grcs_bullet_nav 
+.grcs_bullet_nav
 {
     position: fixed;
     right: -200px;
@@ -525,7 +525,7 @@ a:focus
     right: 34px;
 }
 
-.grcs_bullet_nav .nav_dots 
+.grcs_bullet_nav .nav_dots
 {
     width: 18px;
     height: 18px;
@@ -562,12 +562,12 @@ a:focus
 
 @media screen and (max-width: 540px)
 {
-    
+
     .grcs_bullet_nav
     {
         display: none;
     }
-    
+
 }
 
 

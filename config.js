@@ -11,7 +11,6 @@
  */
 var option_overlay_skin = 'black';
 
-
 /**
  * OVERLAY ANIMATION  [ 'fade' : 'slide' ]
  * 'fade' = FADE ANIMATION
@@ -34,7 +33,6 @@ var option_overlay_content_animation = 'slide';
 var option_overlay_bullet_navigation = 'off';
 
 
-
 /**
  * HERO CONFIG
  */
@@ -45,7 +43,6 @@ var option_overlay_bullet_navigation = 'off';
  * 'off' = OPTION DEACTIVATED
  */
 var option_hero_parallax_hover_effect = 'on';
-
 
 /**
  * GRAVITY PARTICLE BACKGROUND EFFECT - [ 'on' : 'off' ]
@@ -74,5 +71,3 @@ var option_analytics_tracking = 'off';
  * TRACKING ID
  */
 var option_analytics_tracking_id = 'UA-XXXXXXXX-X';
-
-

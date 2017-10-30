@@ -1,11 +1,11 @@
 /******************************************************************
-	
-	
+
+
 	@ Item          Gravity // Coming Soon - Under Construction
 	@ Version       3.4
 	@ Author		Avanzare
-	@ Website		http://themeforest.net/user/avanzare 
-	
+	@ Website		http://themeforest.net/user/avanzare
+
 
  ******************************************************************/
 
@@ -16,12 +16,12 @@
 	------------------------
 	-- TABLE OF CONTENTS --
 	------------------------
-	
+
 	--  1. Foundation
 	--  2. Hero-1
 	--  3. Error-404
- 
- 
+
+
  ******************************************************************/
 
 
@@ -174,7 +174,7 @@
     height: 100% !important;
 }
 
-.hero .background-content .glitch-img 
+.hero .background-content .glitch-img
 {
 	background-size: cover;
 	background-position: center;
